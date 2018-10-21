@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-practice-examples",
+  "version": "1.0.0",
+  "description": "NodeJS Examples",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priyanka.saha2@cognizant.com",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1",
+    "nodemailer" : "^4.6.8"
+  }
+}

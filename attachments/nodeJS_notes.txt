@@ -1,0 +1,16 @@
+NODE JS:
+
+1. event-driven + non-blocking I/O model
+
+2. Node.js is a single-threaded application
+
+3. Node uses OBSERVER pattern - Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. It falls under behavioral pattern category.
+
+4. Node thread keeps an event loop and whenever a task gets completed, it fires the corresponding event which signals the event-listener function to execute.
+
+5. there is a main loop that listens for events, and then triggers a callback function when one of those events is detected.
+
+6. Whenever an event gets fired, its listener function(The functions that listen to events act as Observers.) starts executing.
+
+
+
