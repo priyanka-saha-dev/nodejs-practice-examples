@@ -1,0 +1,8 @@
+{
+    "INFO": {
+        "company": "ABC",
+        "team": "JsonNode"
+    },
+    "members": 4,
+    "offset": "1 day"
+}
